@@ -1,0 +1,6 @@
+total    = 560      
+bag_size = 25        
+
+reminder = total % bag_size   
+
+print("Leftover:", reminder)   
